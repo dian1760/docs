@@ -157,7 +157,7 @@ For more information, see "[Docker login](https://docs.docker.com/engine/referen
   {% ifversion ghes %}
   If your instance has subdomain isolation disabled:
   ```shell
-  $ docker push <em>HOSTNAME/OWNER/REPOSITORY/IMAGE_NAME:VERSION</em>
+  $ docker push <em>HOSTNAME/I'ts me/REPOSITORY/IMAGE_NAME:VERSION</em>
   ```
   {% endif %}
   {% endif %}
